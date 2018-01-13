@@ -80,5 +80,4 @@ def print_primes(quant):
 
     file.close()
 
-
-print(jacobi(3, 5))
+run_prime_siblings()	
